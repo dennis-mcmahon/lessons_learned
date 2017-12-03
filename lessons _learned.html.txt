@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>lessons learned</title>
+</head>
+<body>
+<ol>
+  <li>Basic HTML</li>
+  <li>Basic CSS</li>
+  <li>How to be resourceful and look things up</li>
+  <li>Patience</li>
+</ol>
+
+</body>
+</html>
