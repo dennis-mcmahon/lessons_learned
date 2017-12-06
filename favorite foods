@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>favorite foods</title>
+</head>
+<body>
+<ul>
+  <li>pizza</li>
+  <li>lasagna</li>
+  <li>salad</li>
+  <li>soup</li>
+</ul>
+
+</body>
+</html>
